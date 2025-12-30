@@ -23,3 +23,14 @@ This project is built to be AIDP-compatible and ready for immediate integration 
 ```bash
 pip install -r requirements.txt
 python app.py
+
+
+## AIDP Marketplace Project Page (Alpha)
+
+This project is built as an alpha-ready GPU compute demo for the AIDP decentralized GPU network.
+
+At the time of submission, AIDP Marketplace project creation is not publicly accessible.
+Once AIDP enables public project listings, this project will be listed on the AIDP Marketplace
+with full GPU integration and usage details.
+
+Official AIDP website: https://aidp.store
